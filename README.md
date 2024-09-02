@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lilayamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilayamm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lidiya-alemayehu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidiya-alemayehu" height="30" width="40" /></a>
-<a href="https://fb.com/lida.ealex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lida.ealex" height="30" width="40" /></a>
+<a href="https://x.com/lilayamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilayamm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lidiya-alemayehu-179036251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidiya-alemayehu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lida.ealex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lida.ealex" height="30" width="40" /></a>
 <a href="https://instagram.com/lida_ealex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lida_ealex" height="30" width="40" /></a>
 <a href="https://medium.com/@liduualex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@liduualex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mytechdiary2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mytechdiary2" height="30" width="40" /></a>
