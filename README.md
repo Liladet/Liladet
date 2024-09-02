@@ -9,15 +9,6 @@
 - 📝 Ask me anything
 - 💌 lilaalex94@gmail.com
 
-## 💼 Skills
-
-- **Programming Languages:** Python, Java, C, C++
-- **AI & Machine Learning:** TensorFlow, Keras, OpenCV
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js
-- **Software Development:** Git, Agile methodologies, Object-Oriented Programming
-- **Tools & Platforms:** VS Code, Jupyter Notebook, GitHub, Docker
-- **Content Creation:** Social media strategy, Canva, Adobe Creative Suite
-
 
 ## 📚 Currently Learning
 
